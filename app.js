@@ -25,7 +25,6 @@ exibirMensagemInicial();
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
-    console.log(chute == numeroSecreto);
     if (chute == numeroSecreto){
         exibirTextoNaTela('h1', 'Acertou');
         let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
@@ -55,7 +54,6 @@ function gerarNumeroAleatorio() {
        return gerarNumeroAleatorio();
    } else {
     listaDeNumerosSorteados.push(numeroEscolhido);
-    console.log(listaDeNumerosSorteados);
     return numeroEscolhido;
    }
 }
