@@ -1,7 +1,9 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura + ONE - Oracle Next Education .</p>
+<p2>OBS: Esse projeto foi realizado com a intenção de desenvolver conhecimentos sobre Javascript, logo o código em JV foi feito por mim, mas o html e css são códigos ja prontos dos instrutores da Alura .</p2>
+
 
 ## 🚀 Tecnologias
 <div>
